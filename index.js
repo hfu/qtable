@@ -12,4 +12,5 @@ console.log(`|-1|0|-|`)
 for (let q = 0; q <= 45; q++) {
   console.log(`|${q}|${p(2 ** q)}|${p(2 ** (q + 1))}|`)
 }
+console.log('')
 console.log('K, M, G, T is base-1024 here.')
