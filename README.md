@@ -1,4 +1,5 @@
 # qtable: a table for q (quantity level)
+
 |q|greater than or equal to|less than|
 | --- | --- | --- |
 |-1|0|-|

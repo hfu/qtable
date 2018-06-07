@@ -6,6 +6,7 @@ const p = v => {
 }
 
 console.log('# qtable: a table for q (quantity level)')
+console.log('')
 console.log('|q|greater than or equal to|less than|')
 console.log('| --- | --- | --- |')
 console.log(`|-1|0|-|`)
