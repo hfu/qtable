@@ -1,0 +1,23 @@
+{
+  "name": "qtable",
+  "version": "1.0.0",
+  "description": "a table for q (quantity level)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/qtable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/qtable/issues"
+  },
+  "homepage": "https://github.com/hfu/qtable#readme",
+  "dependencies": {
+    "pretty-byte": "^1.0.1"
+  }
+}
